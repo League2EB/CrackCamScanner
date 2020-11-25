@@ -1,0 +1,10 @@
+Package: com.league2eb.crackcamscanner
+Name: CrackCamScanner
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: League2eb
+Author: League2eb
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 184
